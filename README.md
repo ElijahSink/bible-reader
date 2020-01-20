@@ -5,7 +5,7 @@ A project that assists daily Bible readings from a written plan.
 ## Reading plans
 
 Reading plans are specified in .plan files, which are simply JSON. The file should follow this pattern:
-<code>
+```
 {
     "name": "My plan",
     "author": "Author's Name",
@@ -42,4 +42,4 @@ Reading plans are specified in .plan files, which are simply JSON. The file shou
         }
     ]
 }
-</code>
+```
